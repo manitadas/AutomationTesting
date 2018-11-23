@@ -1,0 +1,12 @@
+Meet Robo 3T's sibling
+<br/>
+
+<style type="text/css">
+   a { text-decoration:none; }
+</style>  
+
+<b>Do you want to in-place edit your data today? Try Robo 3T's professional sibling, Studio 3T!</b><br/>
+<br/>
+Studio 3T comes with support for live in-place editing. You can double-click anywhere in your document, on a key or on a value, and modify the data in-place. Live preview will guide you when working with more complex data types.<br/> 
+<br/> 
+<a style="color: #106CD6;" href="https://studio3t.com/download-now/?utm_source=meet-studio-3t-3&utm_medium=welcomepage&utm_campaign=inapp-robo3t">Download Studio 3T</a>
