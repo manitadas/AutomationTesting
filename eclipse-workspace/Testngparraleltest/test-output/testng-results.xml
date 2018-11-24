@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7325" started-at="2018-08-05T21:51:48Z" finished-at="2018-08-05T21:51:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7325" started-at="2018-08-05T21:51:48Z" finished-at="2018-08-05T21:51:55Z">
+      <class name="selniumexample.DropdownBox">
+        <test-method status="PASS" signature="dropdownExample()[pri:0, instance:selniumexample.DropdownBox@1786dec2]" name="dropdownExample" duration-ms="7294" started-at="2018-08-05T21:51:48Z" finished-at="2018-08-05T21:51:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownExample -->
+      </class> <!-- selniumexample.DropdownBox -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
